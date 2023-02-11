@@ -13,14 +13,16 @@ params:
         imageTitle: "Logo: Kreativ im Keller" # optional
         imageWidth: 290 # custom size
         imageHeight: 280 # custom size
-        #buttons:
+        buttons:
         #  - name: Archiv
         #    url: "/archiv"
+          - name: Impressum
+            url: "/imprint"
 
     socialIcons: # optional
       #- name: "Facebook"
       #  url: "<link>"
       - name: "Instagram"
         url: "https://instagram.com/kreativ.im.keller"
-      - name: "Github"
-        url: "https://github.com/JMasak/kreativ-im-keller"
+      #- name: "Github"
+      #  url: "https://github.com/JMasak/kreativ-im-keller"
